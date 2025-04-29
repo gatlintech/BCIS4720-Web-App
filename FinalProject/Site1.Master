@@ -3,8 +3,7 @@
 <html>
 <head runat="server">
   <asp:ContentPlaceHolder ID="head" runat="server" />
-</head>
-<body>
+//removed the extra head and body lines---
 <body runat="server" style="background:#ffe6f2;">
   <form id="form1" runat="server">
 <nav style="text-align:center; margin:10px 0;">
